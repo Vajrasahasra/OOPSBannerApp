@@ -1,7 +1,4 @@
-package OOPSBannerApp;
-
 public class UC2 {
-    public class OOPSBannerApp {
     public static void main(String[] args) {
 
         System.out.println("  *****     *****     ******     *****  ");
@@ -13,7 +10,4 @@ public class UC2 {
         System.out.println("  *****     *****     *          *****   ");
 
     }
-}
-
-    
 }
